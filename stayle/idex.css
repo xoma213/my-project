@@ -1,0 +1,21 @@
+.project {
+    margin: 0 auto;
+}
+
+
+
+.hero__title {
+    position: absolute;
+    margin: 0 0 0 0;
+}
+
+
+.hero__img {
+    position: relative;
+    width: 1100px;
+    height: 285px;
+    background-image: url("../phote/cinki.jpg");
+    background-position: center;
+    margin: 0 0 0 0;
+}
+
